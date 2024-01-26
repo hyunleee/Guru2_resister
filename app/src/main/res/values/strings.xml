@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyPage</string>
+    <string name="profile_image_description">프로필 사진</string>
+    <string name="profile_name">Name</string>
+</resources>
